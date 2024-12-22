@@ -13,5 +13,6 @@ int main() {
     getchar(); //吞掉空格
     scanf("%[a-z || A-Z]", str);
     printf("%%[a-z || A-Z]: %s\n", str);
+
     return 0;
 }

@@ -10,5 +10,6 @@ int main() {
     scanf("%d", &n);
     int num = printf("%d\n", n) - 1;
     printf("%d has %d digit(s)\n", n, num);
+
     return 0;
 }

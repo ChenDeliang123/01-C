@@ -9,5 +9,6 @@ int main() {
     scanf("%[^\n]", str);
     int num = printf("%s", str);
     printf(": %d\n", num);
+
     return 0;
 }

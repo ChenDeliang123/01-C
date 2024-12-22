@@ -51,5 +51,6 @@ int main() {
     print_digit(x);
     printf("(-x & x)= ");
     print_digit(-x & x);
+
     return 0;
 }
