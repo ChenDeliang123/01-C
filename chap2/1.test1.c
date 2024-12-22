@@ -4,8 +4,7 @@
 
 #include <stdio.h>
 
-int main()
-{
+int main() {
     int n;
     printf("please input number: ");
     scanf("%d", &n);
