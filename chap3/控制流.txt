@@ -1,0 +1,2 @@
+1.and_or.c --> 短路原则
+2.switch_case.c --> 
