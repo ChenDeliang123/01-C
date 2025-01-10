@@ -35,7 +35,8 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if (x < 0) {
+        if (__builtin_expect(!!(x < 0), 0)) {
+            //如果x < 0，则结果大概率为假，帮助CPU进行判定，可以加快CPU运算效率
             return false;
         }
         long long y = 0;
