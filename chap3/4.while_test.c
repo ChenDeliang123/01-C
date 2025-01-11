@@ -8,7 +8,8 @@
 int main() {
     int x;
     while (scanf("%d", &x) != EOF) {
-        printf("2 * x = %d", 2 * x);
+        printf("2 * x = %d\n", 2 * x);
     }
+    printf("结束\n");
     return 0;
 }
