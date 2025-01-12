@@ -1,1 +1,2 @@
-1.recursion_func.c --> 测试递归函数
+1.recursion_func.c --> 测试递归函数: 阶乘
+2.recursion_func2.c --> 测试递归函数: 斐波那契数列  (建议用树形结构分析递归)
