@@ -36,6 +36,9 @@ int gcd(int a, int b) {
     if (b == 0)
         return a;
     return gcd(b, a % b);
+    // a % b 的最终结果：
+    // 1.直接被整除, 结果为零；
+    // 2.整数 b 先为 1，a % b = 0
 }
 
 int main() {
