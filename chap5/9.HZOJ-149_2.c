@@ -23,8 +23,8 @@ Today is a nice day
 int main() {
     char s[55];
     int len = 0;
-    while (scanf("%s", s) != EOF)
-        ;
+    while (scanf("%s", s) != EOF) {
+    }
     len = strlen(s);
     printf("%d\n", len);
     return 0;

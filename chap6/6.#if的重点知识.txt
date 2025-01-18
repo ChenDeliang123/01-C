@@ -1,0 +1,8 @@
+条件编译: 
+函数                    定义
+#ifdef                  DEBUG 是否定义了 DEBUG 宏
+#ifndef                 DEBUG 是否没定义 DEBUG 宏
+#if MAX_N == 5          宏 MAX_N 是否等于5
+#elif MAX_N == 4        否则宏 MAX_N 是否等于4
+#else
+#endif

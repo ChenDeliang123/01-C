@@ -1,0 +1,14 @@
+重点代码: 
+3.prime.c
+4.HZOJ-144_2.c
+6.HZOJ-146.c
+8.HZOJ-148.c
+11.HZOJ-828.c
+12.test1.c
+13.func_pointer.c
+15.memory.c
+17.typedef.c
+19.qsort.c
+20.call_back_func.c 
+21.test3.c          //求个人所的税
+22.my_qsort.c       //创建自己的qsort函数

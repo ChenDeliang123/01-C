@@ -1,0 +1,15 @@
+qsort 函数(排序函数)
+
+头文件：stdlib.h
+
+原型：void qsort(void *arr, size_t count, size_t size, 
+ int (*comp)(const void *
+, const void *) );
+
+arr：待排序数组的起始位置
+
+count：排序元素数量
+
+size：每个元素的所占字节数
+
+comp：比较规则函数

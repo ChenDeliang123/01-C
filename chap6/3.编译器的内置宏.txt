@@ -1,0 +1,14 @@
+宏                      说明
+__DATE__                日期：Mmm dd yyyy
+
+__TIME__                时间：hh:mm:ss
+
+__LINE__                ⾏号
+
+__FILE__                ⽂件名
+
+__func__                函数名/非标准
+
+__FUNC__                函数名/非标准
+
+__PRETTY_FUNCTION__     更详细的函数信息/非标准
